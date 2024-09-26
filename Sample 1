@@ -1,0 +1,19 @@
+CREATE TABLE user_info (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, handle TEXT, date INTEGER, state TEXT);
+
+
+INSERT INTO user_info (username, handle, date, state)
+        VALUES ("heed", "@heed01", 2019, "oyo" ) ;
+INSERT INTO user_info (username, handle, date, state)
+        VALUES ("Anaf", "@anaf", 2023, "oyo" ) ;
+INSERT INTO user_info (username, handle, date, state)
+        VALUES ("Qudud", "@tee_gold", 2021, "lagos" ) ;
+INSERT INTO user_info (username, handle, date, state)
+        VALUES ("Abdulrahman", "buru", 2023, "Ogun" ) ;
+SELECT * FROM user_info;
+
+UPDATE user_info SET date  = 2018 WHERE id=1;
+
+SELECT * FROM user_info;
+
+DELETE FROM user_info  WHERE id=3;
+SELECT * FROM user_info;
