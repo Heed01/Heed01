@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Heed01
-- 👀 I’m interested in data analytic
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on this platform
-- 📫 How to reach me alakasaheedayobami@yahoo.com
+- 👋 Hi, I’m Saheed
+- 👀I am a Transitioning builder and industrial operations expert exploring data analytics. Passionate about turning real-world challenges into insights using Excel, Power BI, and Python
+- 📫 How to reach me alakasaheed13@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I'm not fun
 
